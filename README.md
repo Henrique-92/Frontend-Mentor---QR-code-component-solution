@@ -4,12 +4,14 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 ## Índice
 
 - Visão geral
-   - ![](./screenshot.jpg)
+   - ![](./imagens/img-QR-code.jpg)
   
-- [Meu processo](#meu-processo)
-   - [Construído com](#construído com)
-   - [O que aprendi](#o-que-aprendi)
-   - [Desenvolvimento contínuo](#desenvolvimento contínuo)
-   - [Recursos úteis](#useful-resources)
-- [Autor](#autor)
-- [Agradecimentos](#acknowledgments)
+- Meu processo
+   - Construído com CSS e HTML
+   - Recursos úteis: Flex Box
+
+## Visão geral
+
+### Captura de tela
+
+![](./captura de tela.jpg)
